@@ -9,7 +9,7 @@ configure_requires:
   CPAN::Meta::Prereqs: 0
   Module::Build: 0.38
 dynamic_config: 0
-generated_by: 'Minilla/v0.11.0, CPAN::Meta::Converter version 2.132830'
+generated_by: 'Minilla/v0.11.0, CPAN::Meta::Converter version 2.132661'
 license: perl
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.4.html
@@ -28,7 +28,7 @@ no_index:
 provides:
   App::MadEye::Plugin::Notify::HipChat:
     file: lib/App/MadEye/Plugin/Notify/HipChat.pm
-    version: 0.01
+    version: 0.02
 requires:
   App::MadEye: 0
   perl: 5.008005
@@ -36,7 +36,7 @@ resources:
   bugtracker: https://github.com/kazuph/App-MadEye-Plugin-Notify-HipChat/issues
   homepage: https://github.com/kazuph/App-MadEye-Plugin-Notify-HipChat
   repository: git://github.com/kazuph/App-MadEye-Plugin-Notify-HipChat.git
-version: 0.01
+version: 0.02
 x_contributors:
   - 'Norimitsu Sasao <norimitsu.sasao@gaiax.com>'
   - 'vagrant <vagrant@localhost.localdomain>'

@@ -56,7 +56,7 @@
    "provides" : {
       "App::MadEye::Plugin::Notify::HipChat" : {
          "file" : "lib/App/MadEye/Plugin/Notify/HipChat.pm",
-         "version" : "0.01"
+         "version" : "0.02"
       }
    },
    "release_status" : "stable",
@@ -70,7 +70,7 @@
          "web" : "https://github.com/kazuph/App-MadEye-Plugin-Notify-HipChat"
       }
    },
-   "version" : "0.01",
+   "version" : "0.02",
    "x_contributors" : [
       "Norimitsu Sasao <norimitsu.sasao@gaiax.com>",
       "vagrant <vagrant@localhost.localdomain>"
